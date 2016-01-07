@@ -3,4 +3,4 @@ A limited implementation of classic Nintendo game Mario Bros, in JavaScript. Eve
 
 ![Screenshot](https://github.com/mattiaserlo/mariobros/blob/master/images/screenshot.png?raw=true "Screenshot")
 
-Hosted version: http://www.mattiaserlo.com/mariobros/index.html
+Playable hosted version: http://www.mattiaserlo.com/mariobros/index.html (Keyboard required. Use arrow keys to control Mario and and ASWD keys to control Luigi)
