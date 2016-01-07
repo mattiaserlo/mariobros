@@ -1,0 +1,3 @@
+All source code written by Mattias Erlo 2015-2016 and covered by MIT License, see https://opensource.org/licenses/MIT
+All image assets are copyright Nintendo and are used here solely to demonstrate an example of what the physics engine is capable of.
+No permission is granted here to share or use the assets in any other projects.
