@@ -1,6 +1,5 @@
 # mariobros
-A simple 2D game type physics engine in JavaScript, and a limited implementation of Mario Bros as an example of the engine capabilities.
-Work in progress.
+A limited implementation of classic Nintendo game Mario Bros, in JavaScript. Eventually I'm thinking to make the 2D physics engine behind this generic, so that it can be used for similar simple 2D games. The choice of game here is just to demonstrate an example of the engine's capabilities. Work in progress.
 
 ![Screenshot](https://github.com/mattiaserlo/mariobros/blob/master/images/screenshot.png?raw=true "Screenshot")
 
