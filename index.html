@@ -1,0 +1,23 @@
+<doctype HTML>
+
+<html>
+
+<canvas id="canvas" />
+
+<style>
+	#canvas {
+		background-color: black;
+	}
+</style>
+
+<script src="js/libs/require.js"></script>
+
+<script>
+
+require(["./js/app/main"], function(main) {
+	main.init();
+});
+
+</script>
+
+</html>
